@@ -24,10 +24,16 @@ namespace VeterinariaRintintin
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            var frm = new consulta();
+            frm.Show();
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_registro_Click(object sender, EventArgs e)
         {
 
         }
